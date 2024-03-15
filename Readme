@@ -1,0 +1,4 @@
+To execute this app on your local follow below steps:
+1. npm install express ioredis
+2. run the app using node node-redis-app.js
+3. Go to browser and hit http://localhost:3000/message you will see the json.
